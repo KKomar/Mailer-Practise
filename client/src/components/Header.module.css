@@ -1,0 +1,35 @@
+.header {
+    background-color: #5d4037;
+    width: 100%;
+    /*--clearfix--*/
+    clear: both;
+    display: table;
+}
+
+.title {
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    float: left;
+    margin: 15px;
+}
+
+.buttons:last-child {
+    margin-right: 20px;
+}
+
+.button {
+    float: right;
+    margin: 20px 10px;
+    padding: 10px;
+    background-color: #8d6e63;
+    border: 1px solid black;
+    cursor: pointer;
+    color: black;
+    outline: none;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #bcaaa4;
+}

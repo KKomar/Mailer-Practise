@@ -1,0 +1,33 @@
+.field {
+    color: #bf360c;
+    font-weight: bolder;
+    margin: 10px 0;
+    display: block;
+}
+
+.icon {
+    color: #4e342e;
+}
+
+/*--------HIDE_INPUT-------*/
+.file {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+/*---------STYLE_LABEL-------*/
+.fileLabel {
+    font-family: fontawesome;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.uploaded {
+    font-size: 10px;
+    font-weight: normal;
+    margin-right: 5px;
+}

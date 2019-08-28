@@ -1,0 +1,106 @@
+.success {
+    font-size: 17px;
+    color: green;
+}
+
+.fail {
+    font-size: 17px;
+    color: red;
+}
+
+.error {
+    font-size: 10px;
+    color: red;
+}
+
+.container {
+    background-color: #efebe9;
+    height: 100%;
+    padding-top: 50px;
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #bcaaa4;
+}
+
+.logRegWrapper {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #bcaaa4;
+}
+
+.formLogReg {
+    padding: 10px 50px;
+    border: 3px solid #4e342e;
+}
+
+.form {
+    border: 3px solid #4e342e;
+    padding: 10px;
+}
+
+.submit {
+    background-color: #a1887f;
+    border: 1px solid #3e2723;
+    outline: none;
+    padding: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.field {
+    color: #4e342e;
+    font-weight: bolder;
+    margin: 10px 0;
+    display: block;
+}
+
+.checkboxes {
+    color: #424242;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.text {
+    width: 500px;
+    height: 200px;
+    outline: none;
+    border: 1px solid white;
+    margin-bottom: 5px;
+}
+
+.input {
+    margin: 5px 0;
+    outline: none;
+    height: 20px;
+    width: 250px;
+}
+
+.email {
+    margin-left: 10px;
+}
+
+.client {
+    margin-bottom: 10px;
+}
+
+.search {
+    width: 400px;
+    height: 20px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #3e2723;
+    outline: none;
+    padding: 5px;
+}
+
+.checkAll {
+    margin-bottom: 20px;
+    display: block;
+    font-weight: bolder;
+    font-size: 15px;
+}
